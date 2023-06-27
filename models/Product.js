@@ -1,7 +1,7 @@
 // imports
 const { Model, DataTypes } = require("sequelize");
 
-const sequelize = require("../config/connection");
+const sequelize = require("../config/connection.js");
 
 // initialization
 class Product extends Model {}

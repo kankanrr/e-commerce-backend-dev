@@ -5,7 +5,7 @@ const seedTag = require ('./tag-seeds.js');
 const seedProductTag = require ('./product-tag-seeds.js');
 
 // sequelize
-const sequelize = require ('../config/connection.js');
+const sequelize = require('../config/connection.js');
 
 // seed process
 

@@ -5,7 +5,7 @@ const ProductTag = require ('./ProductTag.js');
 
 // one product belongs to
 Product.belongsTo(Category, {
-    foreignKey: "category_id"
+    foreignKey: "category_id",
 });
 
 // multiple cats
