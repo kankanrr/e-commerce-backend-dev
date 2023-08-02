@@ -17,7 +17,7 @@ This project uses Node, MySQL2, Express, Sequelize and dotenv. To insure that al
 
 ## Demo
 
-Demo:
+Demo: https://drive.google.com/file/d/1_xz82eekFAla4KMYaWxSCZPGNMpNuwLz/view?usp=sharing
 
 Feel free to test endpoints using Insomnia after running the server. Sample endpoint: "http://localhost:3001/api/categories" (GET request)
 
